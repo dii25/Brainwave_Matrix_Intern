@@ -1,0 +1,13 @@
+Date;Product_ID;Product_Name;Category;Quantity;Unit_Price;Total_Sales;Region
+01/10/2024;P101;Laptop;Electronics;5;1000;5000;North
+01/10/2024;P102;Smartphone;Electronics;8;600;4800;South
+01/10/2024;P103;T-Shirt;Clothing;12;25;300;East
+01/10/2024;P104;Jeans;Clothing;7;40;280;West
+01/10/2024;P105;Headphones;Electronics;10;75;750;North
+02/10/2024;P101;Laptop;Electronics;3;1000;3000;South
+02/10/2024;P103;T-Shirt;Clothing;9;25;225;East
+02/10/2024;P106;Shoes;Footwear;6;50;300;West
+02/10/2024;P102;Smartphone;Electronics;5;600;3000;North
+03/10/2024;P103;T-Shirt;Clothing;15;25;375;South
+03/10/2024;P104;Jeans;Clothing;4;40;160;East
+03/10/2024;P105;Headphones;Electronics;7;75;525;West
