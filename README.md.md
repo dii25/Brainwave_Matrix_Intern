@@ -21,19 +21,19 @@ The dataset contains the following columns:
 ## Visualizations
 1. **Total Sales Over Time**
    - A line chart showing the trend of total sales over the given dates.
-   ![Total Sales Over Time](total_sales_over_time.png)
+   ![Total Sales Over Time](TopSelling.png)
 
 2. **Sales by Category**
    - A bar chart displaying total sales for each product category.
-   ![Sales by Category](sales_by_category.png)
+   ![Sales by Category](TotalSales.Category.png)
 
 3. **Sales by Region**
    - A bar chart showing total sales across different regions.
-   ![Sales by Region](sales_by_region.png)
+   ![Sales by Region](TotalSales.Region.png)
 
 4. **Top Selling Products**
    - A bar chart highlighting the top-selling products based on quantity sold.
-   ![Top Selling Products](top_selling_products.png)
+   ![Top Selling Products](TotalSales.png)
 
 ## Tools Used
 - **Python**
